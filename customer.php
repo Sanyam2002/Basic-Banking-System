@@ -99,7 +99,7 @@ button {
                         <a class="nav-link active px-2" href="customer.php">Our Customers</a>
                     </li>
                     <li class="nav-item px-2">
-                        <a class="nav-link active px-2"         
+                        <a class="nav-link active px-2" target="_blank"    
                             href="https://www.xe.com/currencyconverter/">Currency-Convertor</a>
                     </li>
                 </ul>
